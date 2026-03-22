@@ -1,0 +1,12 @@
+# Ignore AWS credentials and local config
+.aws/
+credentials
+.env
+
+# Ignore Python temporary junk
+__pycache__/
+*.py[cod]
+
+# Ignore the local test file
+progress.txt
+

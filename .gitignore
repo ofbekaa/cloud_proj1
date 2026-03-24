@@ -10,3 +10,5 @@ __pycache__/
 # Ignore the local test file
 progress.txt
 
+# Ignore the Python Virtual Environment folder
+venv/

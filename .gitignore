@@ -12,3 +12,4 @@ progress.txt
 
 # Ignore the Python Virtual Environment folder
 venv/
+secret_note.txt
